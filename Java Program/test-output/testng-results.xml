@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="109" started-at="2021-10-09T13:50:57Z" finished-at="2021-10-09T13:50:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="109" started-at="2021-10-09T13:50:57Z" finished-at="2021-10-09T13:50:57Z">
+      <class name="programs.Testng1">
+        <test-method status="PASS" signature="c()[pri:0, instance:programs.Testng1@2ddc8ecb]" name="c" is-config="true" duration-ms="63" started-at="2021-10-09T13:50:57Z" finished-at="2021-10-09T13:50:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c -->
+        <test-method status="PASS" signature="b()[pri:0, instance:programs.Testng1@2ddc8ecb]" name="b" is-config="true" duration-ms="0" started-at="2021-10-09T13:50:57Z" finished-at="2021-10-09T13:50:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method status="PASS" signature="e()[pri:0, instance:programs.Testng1@2ddc8ecb]" name="e" is-config="true" duration-ms="0" started-at="2021-10-09T13:50:57Z" finished-at="2021-10-09T13:50:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- e -->
+        <test-method status="PASS" signature="a1()[pri:0, instance:programs.Testng1@2ddc8ecb]" name="a1" duration-ms="31" started-at="2021-10-09T13:50:57Z" finished-at="2021-10-09T13:50:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a1 -->
+        <test-method status="PASS" signature="d()[pri:0, instance:programs.Testng1@2ddc8ecb]" name="d" is-config="true" duration-ms="0" started-at="2021-10-09T13:50:57Z" finished-at="2021-10-09T13:50:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d -->
+        <test-method status="PASS" signature="a2()[pri:0, instance:programs.Testng1@2ddc8ecb]" name="a2" duration-ms="16" started-at="2021-10-09T13:50:57Z" finished-at="2021-10-09T13:50:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a2 -->
+        <test-method status="PASS" signature="h()[pri:0, instance:programs.Testng1@2ddc8ecb]" name="h" is-config="true" duration-ms="0" started-at="2021-10-09T13:50:57Z" finished-at="2021-10-09T13:50:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- h -->
+        <test-method status="PASS" signature="d()[pri:0, instance:programs.Testng1@2ddc8ecb]" name="d" is-config="true" duration-ms="0" started-at="2021-10-09T13:50:57Z" finished-at="2021-10-09T13:50:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d -->
+        <test-method status="PASS" signature="g()[pri:0, instance:programs.Testng1@2ddc8ecb]" name="g" is-config="true" duration-ms="0" started-at="2021-10-09T13:50:57Z" finished-at="2021-10-09T13:50:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g -->
+        <test-method status="PASS" signature="h()[pri:0, instance:programs.Testng1@2ddc8ecb]" name="h" is-config="true" duration-ms="0" started-at="2021-10-09T13:50:57Z" finished-at="2021-10-09T13:50:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- h -->
+        <test-method status="PASS" signature="f()[pri:0, instance:programs.Testng1@2ddc8ecb]" name="f" is-config="true" duration-ms="0" started-at="2021-10-09T13:50:57Z" finished-at="2021-10-09T13:50:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="i()[pri:0, instance:programs.Testng1@2ddc8ecb]" name="i" is-config="true" duration-ms="0" started-at="2021-10-09T13:50:57Z" finished-at="2021-10-09T13:50:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- i -->
+      </class> <!-- programs.Testng1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
